@@ -68,6 +68,6 @@ Now that we've covered my ground rules for a pull request lets dig into the chec
 
 20. Is the PR over engineering for something that might not be need?
 
-21. Is the PR locking us into a decision of business rules that could be postponed?
+21. Is the PR locking us into a decision that could be postponed?
 
-22. Is the change backward/forward compatible.
+22. Are the change backward/forward compatible.
